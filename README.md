@@ -1,108 +1,139 @@
-👋 About Me
+# 👋 Hi, I'm Deepak Yadav
 
-🎯 Hi, I'm Deepak Yadav!
+### 📊 Data Analyst | Data Science | Machine Learning
 
-Welcome to my GitHub profile.
+I'm a Computer Science graduate passionate about turning data into meaningful insights and building data-driven solutions.
 
-I’m passionate about Data Analytics, Data Science, and Machine Learning, and I enjoy turning raw data into meaningful insights, dashboards, and useful applications.
+- 🔭 Working on Data Analytics & Machine Learning projects
+- 🌱 Learning Advanced SQL, Python, Power BI & Machine Learning
+- 💡 Interested in Data Analysis, Data Science & AI
+- 📊 Love creating interactive dashboards and data visualizations
+- 🤝 Open to Data Analyst & Data Science opportunities
 
-🛠️ What I'm Working On
+---
 
-📊 Data analysis and business intelligence
+## 🛠️ Skills & Technologies
 
-📈 Interactive dashboards using Power BI, Excel, and Tableau
+### 📊 Data Analytics
 
-🐍 Python-based data analysis and applications
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-🗄️ SQL database analysis
+### 🐍 Programming
 
-🤖 Machine Learning projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-🌱 Continuously improving my skills in data and AI
+### 🤖 Machine Learning & AI
 
-🌐 Socials
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge)
 
+---
 
+## 🚀 Featured Projects
 
+### 📊 Data Analytics
 
-💻 Tech Stack
+**🛒 Online Store Sales Analysis — Excel**
+- Sales analysis using Excel
+- Interactive dashboard
+- Analysis by state, age group, gender, channel and month
 
-📊 Data Analytics & BI
+**📺 Netflix Stock Market Analysis — Power BI**
+- Stock price analysis
+- Highest & lowest stock prices
+- Top 5 highest and lowest stock prices
+- Interactive Power BI dashboard
 
+**🏪 Amazon Superstore Sales & Profit Analysis — Power BI**
+- Sales and profit analysis
+- Customer and product analysis
+- Category and sub-category performance
+- Returns analysis
 
+### 🐍 Python Projects
 
+**🎬 Movie Recommendation System**
+- Recommendation system developed using Python
 
+**🦠 COVID-19 Impact Analysis**
+- Interactive COVID-19 analytics dashboard
+- Built using Python, Pandas, Plotly and Dash
 
+**💊 Medicine Price Comparison**
+- Medicine price comparison web application
+- Built using Python and Streamlit
 
-🐍 Programming & Data Science
+### 🗄️ SQL
 
+**🎵 Music Store Database Analysis**
+- SQL-based business and sales analysis
+- Database queries and business insights
 
+### 🤖 Machine Learning
 
+**🩺 Diabetes Prediction**
+- Machine learning model for diabetes prediction
 
+**💳 Credit Card Fraud Detection**
+- Machine learning project for fraud detection
 
+---
 
+## 📊 GitHub Stats
 
-🤖 AI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakydv-95&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakydv-95&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
+---
 
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deepakydv-95&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
 
-📌 Featured Projects
+## 🏆 GitHub Trophies
 
-Project
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepakydv-95&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
-Technology
+---
 
-📊 Online Store Sales Analysis
+## 📈 Contribution Graph
 
-Excel
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakydv-95&theme=tokyo-night&hide_border=true"/>
+</p>
 
-📈 Netflix Stock Market Analysis
+---
 
-Power BI
+## 🤝 Connect With Me
 
-🗄️ Music Store Database Analysis
+<p align="center">
 
-SQL
+<a href="https://github.com/deepakydv-95">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🏏 Cricket Bowling Performance Dashboard
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Tableau
+</p>
 
-🎬 Movie Recommendation System
+---
 
-Python
-
-🦠 COVID-19 Pandemic Dashboard
-
-Python, Dash
-
-💊 Medicine Price Comparison
-
-Python, Streamlit
-
-💳 Credit Card Fraud Detection
-
-Machine Learning
-
-🩺 Diabetes Prediction
-
-Machine Learning
-
-📊 GitHub Stats
-
-
-
-
-
-📫 Contact
-
-💼 LinkedIn: Connect with me
-
-🌐 Portfolio: deepakydv-95.github.io
-
-📧 Email: YOUR_EMAIL
-
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
