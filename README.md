@@ -1,123 +1,104 @@
-# 👋 Hi, I'm Deepak Yadav
+# 👋 About Me
 
-### 📊 Data Analyst | Data Science | Machine Learning
+🎯 Hey there, I'm **Deepak Yadav**!
 
-I'm a Computer Science graduate passionate about turning data into meaningful insights and building data-driven solutions.
+Welcome to my GitHub profile 🚀
 
-- 🔭 Working on Data Analytics & Machine Learning projects
-- 🌱 Learning Advanced SQL, Python, Power BI & Machine Learning
-- 💡 Interested in Data Analysis, Data Science & AI
-- 📊 Love creating interactive dashboards and data visualizations
-- 🤝 Open to Data Analyst & Data Science opportunities
+I'm passionate about **Data Analytics, Data Science, and Machine Learning**. I enjoy working with data, creating dashboards, finding meaningful insights, and building practical projects.
+
+### 🛠️ What I'm Working On
+
+- 📊 Data Analysis & Business Intelligence
+- 📈 Interactive dashboards using Power BI, Excel & Tableau
+- 🐍 Python for Data Analysis
+- 🗄️ SQL & Database Analysis
+- 🤖 Machine Learning
+- 🤖 GenAI & Agentic AI
+- 🌱 Continuously learning new technologies
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌐 Socials
 
-### 📊 Data Analytics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=github)](https://deepakydv-95.github.io)
+
+---
+
+## 💻 Tech Stack
+
+### 📊 Data Analytics & BI
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🐍 Programming
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🐍 Programming & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### 🤖 Machine Learning & AI
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🤖 AI
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+
+![GenAI](https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge)
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-5B2EFF?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Projects
 
 ### 📊 Data Analytics
 
-**🛒 Online Store Sales Analysis — Excel**
-- Sales analysis using Excel
-- Interactive dashboard
-- Analysis by state, age group, gender, channel and month
-
-**📺 Netflix Stock Market Analysis — Power BI**
-- Stock price analysis
-- Highest & lowest stock prices
-- Top 5 highest and lowest stock prices
-- Interactive Power BI dashboard
-
-**🏪 Amazon Superstore Sales & Profit Analysis — Power BI**
-- Sales and profit analysis
-- Customer and product analysis
-- Category and sub-category performance
-- Returns analysis
+- **Online Store Sales Analysis** — Excel
+- **Amazon Superstore Sales & Profit Analysis** — Power BI
+- **Netflix Stock Market Analysis** — Power BI
+- **Cricket Bowling Performance Dashboard** — Tableau
+- **Music Store Database Analysis** — SQL
 
 ### 🐍 Python Projects
 
-**🎬 Movie Recommendation System**
-- Recommendation system developed using Python
-
-**🦠 COVID-19 Impact Analysis**
-- Interactive COVID-19 analytics dashboard
-- Built using Python, Pandas, Plotly and Dash
-
-**💊 Medicine Price Comparison**
-- Medicine price comparison web application
-- Built using Python and Streamlit
-
-### 🗄️ SQL
-
-**🎵 Music Store Database Analysis**
-- SQL-based business and sales analysis
-- Database queries and business insights
+- **Movie Recommendation System**
+- **COVID-19 Impact Analysis**
+- **Medicine Price Comparison**
 
 ### 🤖 Machine Learning
 
-**🩺 Diabetes Prediction**
-- Machine learning model for diabetes prediction
-
-**💳 Credit Card Fraud Detection**
-- Machine learning project for fraud detection
+- **Credit Card Fraud Detection**
+- **Diabetes Prediction**
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakydv-95&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakydv-95&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakydv-95&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakydv-95&layout=compact&theme=dark)
 
 ---
 
-## 🔥 GitHub Streak
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepakydv-95&theme=tokyonight&hide_border=true"/>
-</p>
+💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
 
----
+🌐 **Portfolio:** [deepakydv-95.github.io](https://deepakydv-95.github.io)
 
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/deepakydv-95">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/deepak-yadav9/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+📧 **Email:** YOUR_EMAIL
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+⭐ **Thanks for visiting my profile!**
