@@ -100,8 +100,9 @@ Machine Learning
 
 💼 LinkedIn: Connect with me
 
-⭐ Thanks for visiting my profile!
-
 🌐 Portfolio: deepakydv-95.github.io
 
 📧 Email: YOUR_EMAIL
+
+
+⭐ Thanks for visiting my profile!
