@@ -39,31 +39,31 @@ I'm a Computer Science graduate passionate about turning data into meaningful in
 
 ### 📊 Data Analytics
 
-**🛒 Online Store Sales Analysis — Excel**
+  **🛒 Online Store Sales Analysis — Excel**
 
-**📺 Netflix Stock Market Analysis — Power BI**
+  **📺 Netflix Stock Market Analysis — Power BI**
 
-**🏪 Amazon Superstore Sales & Profit Analysis — Power BI**
+  **🏪 Amazon Superstore Sales & Profit Analysis — Power BI**
 
 ### 🐍 Python Projects
 
-**🎬 Movie Recommendation System**
+  **🎬 Movie Recommendation System**
 
-**🦠 COVID-19 Impact Analysis**
-
-**💊 Medicine Price Comparison**
+  **🦠 COVID-19 Impact Analysis**
+ 
+  **💊 Medicine Price Comparison**
 
 
 ### 🗄️ SQL
 
-**🎵 Music Store Database Analysis**
+  **🎵 Music Store Database Analysis**
 
 
 ### 🤖 Machine Learning
 
-**🩺 Diabetes Prediction**
+  **🩺 Diabetes Prediction**
 
-**💳 Credit Card Fraud Detection**
+  **💳 Credit Card Fraud Detection**
 
 
 ---
