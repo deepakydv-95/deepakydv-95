@@ -40,58 +40,29 @@ I'm a Computer Science graduate passionate about turning data into meaningful in
 ### 📊 Data Analytics
 
 **🛒 Online Store Sales Analysis — Excel**
-- Sales analysis using Excel
-- Interactive dashboard
-- Analysis by state, age group, gender, channel and month
-
 **📺 Netflix Stock Market Analysis — Power BI**
-- Stock price analysis
-- Highest & lowest stock prices
-- Top 5 highest and lowest stock prices
-- Interactive Power BI dashboard
-
 **🏪 Amazon Superstore Sales & Profit Analysis — Power BI**
-- Sales and profit analysis
-- Customer and product analysis
-- Category and sub-category performance
-- Returns analysis
 
 ### 🐍 Python Projects
 
 **🎬 Movie Recommendation System**
-- Recommendation system developed using Python
-
 **🦠 COVID-19 Impact Analysis**
-- Interactive COVID-19 analytics dashboard
-- Built using Python, Pandas, Plotly and Dash
-
 **💊 Medicine Price Comparison**
-- Medicine price comparison web application
-- Built using Python and Streamlit
+
 
 ### 🗄️ SQL
 
 **🎵 Music Store Database Analysis**
-- SQL-based business and sales analysis
-- Database queries and business insights
+
 
 ### 🤖 Machine Learning
 
 **🩺 Diabetes Prediction**
-- Machine learning model for diabetes prediction
-
 **💳 Credit Card Fraud Detection**
-- Machine learning project for fraud detection
+
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakydv-95&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakydv-95&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
----
 
 ## 🔥 GitHub Streak
 
