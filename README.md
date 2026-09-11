@@ -37,7 +37,7 @@ I'm a Computer Science graduate passionate about turning data into meaningful in
 
 ## 🚀 Featured Projects
 
-### 📊 Data Analytics
+### 1.📊 Data Analytics
 
   **🛒 Online Store Sales Analysis — Excel**
 
@@ -50,7 +50,7 @@ I'm a Computer Science graduate passionate about turning data into meaningful in
   **🏏Virat-Kohli-Performance  — Power BI**
   
 
-### 🐍 Python Projects
+### 2.🐍 Python Projects
 
   **🎬 Movie Recommendation System**
 
@@ -59,12 +59,12 @@ I'm a Computer Science graduate passionate about turning data into meaningful in
   **💊 Medicine Price Comparison**
 
 
-### 🗄️ SQL
+###3.🗄️ SQL
 
   **🎵 Music Store Database Analysis**
 
 
-### 🤖 Machine Learning
+### 4.🤖 Machine Learning
 
   **🩺 Diabetes Prediction**
 
