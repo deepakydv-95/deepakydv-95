@@ -59,7 +59,7 @@ I'm a Computer Science graduate passionate about turning data into meaningful in
   **💊 Medicine Price Comparison**
 
 
-###3.🗄️ SQL
+### 3.🗄️ SQL
 
   **🎵 Music Store Database Analysis**
 
