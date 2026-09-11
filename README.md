@@ -44,6 +44,9 @@ I'm a Computer Science graduate passionate about turning data into meaningful in
   **📺 Netflix Stock Market Analysis — Power BI**
 
   **🏪 Amazon Superstore Sales & Profit Analysis — Power BI**
+  
+  **🏪 Real Estate Sales & Property Market Analysis  — Power BI**
+  
 
 ### 🐍 Python Projects
 
