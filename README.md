@@ -46,7 +46,8 @@ I'm a Computer Science graduate passionate about turning data into meaningful in
   **🏪 Amazon Superstore Sales & Profit Analysis — Power BI**
   
   **🏠 Real Estate Sales & Property Market Analysis  — Power BI**
-    **Virat-Kohli-Performance  — Power BI**
+   
+  **🏏Virat-Kohli-Performance  — Power BI**
   
 
 ### 🐍 Python Projects
