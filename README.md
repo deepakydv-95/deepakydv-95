@@ -40,6 +40,7 @@ I'm a Computer Science graduate passionate about turning data into meaningful in
 ### 1.📊 Data Analytics
 
    ** 🛒 Online Store Sales Analysis — Excel  **
+   
    ** 📺 Netflix Stock Market Analysis — Power BI **
      **🏪 Amazon Superstore Sales & Profit Analysis — Power BI **
     
